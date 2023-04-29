@@ -1,0 +1,36 @@
+body{
+    
+    color:#bde0fe;
+    text-align:center;
+    font-family: 'Orbitron', sans-serif;
+    background-image: url("space.jpg");
+    background-size:cover;
+    font-size:xx-large;
+}
+.logo{
+    width:350px;
+}
+.btn{
+    padding:5px 12px 5px 12px;
+    font-family: 'Orbitron', sans-serif;
+    font-size:x-large;
+    font-weight: bold;
+    color:#6d6875;
+    border-radius:5px;
+    border:none;
+    
+}
+.btn:hover{
+    background-color:#6d6875;
+    cursor:pointer;
+    color:#006d77;
+    
+}
+.txt{
+    margin-top:120px;
+    margin-bottom:100px;
+    text-shadow:1px 1px 20px;
+}
+.sm{
+    border-bottom:5px solid whitesmoke;
+}
